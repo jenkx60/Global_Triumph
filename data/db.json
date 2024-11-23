@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "firstname": "john",
+      "lastname": "doe",
+      "email": "john.doe@example.com",
+      "country": "Nigeria",
+      "talk": "jenkins"
+    },
+    {
+      "id": "cddf",
+      "firstname": "Jenkins",
+      "lastname": "Uwagbai",
+      "email": "jenkinsu@hotmail.com",
+      "country": "Nigeria",
+      "talk": "Jenkins"
+    },
+    {
+      "id": "274a",
+      "firstname": "Benjamin",
+      "lastname": "Jenkins",
+      "email": "benj@hotmial.com",
+      "country": "South Africa",
+      "talk": "duplex"
+    }
+  ]
+}

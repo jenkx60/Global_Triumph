@@ -1,0 +1,36 @@
+{
+  "prospect": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john.doe@example.com",
+      "country": "Nigeria",
+      "phone": "1234567890"
+    },
+    {
+      "id": "28f0",
+      "firstname": "Jenkins",
+      "lastname": "Uwagbai",
+      "email": "jenkinsu@hotmail.com",
+      "country": "Nigeria",
+      "phone": "9131779025",
+      "years": "3 - 5",
+      "resume": null,
+      "portfolio": "https://jenkins-uwagbai.netlify.app",
+      "coverletter": "No Cover Letter"
+    },
+    {
+      "id": "7d0b",
+      "firstname": "Jenksi",
+      "lastname": "jndf",
+      "email": "kdjnjns@fjdn.com",
+      "country": "Nigeria",
+      "phone": "234567890",
+      "years": "3 - 5",
+      "resume": {},
+      "portfolio": "https://intelbase.is",
+      "coverletter": "sbfdjnff"
+    }
+  ]
+}
