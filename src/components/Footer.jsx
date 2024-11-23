@@ -69,19 +69,19 @@ const Footer = () => {
                 <p className='text-white font-lato font-light text-lg sm:text-xl leading-6 tracking-widest mb-7'>Copyright &copy; 2023. Global Triumph. All rights reserved.</p>
 
                 <div className='flex gap-4 mt-2'>
-                    <a href='https://instagram.com' target='_blank'>
+                    <a href='https://instagram.com' target='_blank' rel='noreferrer'>
                         <div className='bg-gray-500 rounded-full p-5'>
                             <FaInstagram className='text-white text-3xl' />
                         </div>
                     </a>
 
-                    <a href='https://twitter.com' target='_blank'>
+                    <a href='https://twitter.com' target='_blank' rel='noreferrer'>
                         <div className='bg-gray-500 rounded-full p-5'>
                             <FaTwitter className='text-white text-3xl bg-gray-500' />
                         </div>
                     </a>
 
-                    <a href='https://linkedin.com' target='_blank'>
+                    <a href='https://linkedin.com' target='_blank' rel='noreferrer'>
                         <div className='bg-gray-500 rounded-full p-5'>
                             <FaLinkedin className='text-white text-3xl bg-gray-500' />
                         </div>                    
