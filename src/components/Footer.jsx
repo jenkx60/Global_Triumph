@@ -14,7 +14,7 @@ const Footer = () => {
                 className='absolute inset-0 w-full h-full object-cover ' 
             />
 
-            <div className='relative z-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 text-center pt-12 gap-6'>
+            <div className='relative z-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 text-center pt-12 pl-28 gap-6'>
                 <div className='text-white text-left text-lg font-bold font-poppins'>
                     <h2 className='text-xl font-bold'>Company</h2>
                     <div className='font-thin text-base'>About</div>
@@ -53,7 +53,7 @@ const Footer = () => {
             </div>
 
 
-            <hr className='border-t border-gray-400 my-4 relative z-10'/>
+            <hr className='border-t border-gray-400 my-4 relative z-10 w-11/12 ml-16'/>
 
             <div className='relative z-10 flex flex-col items-center justify-center py-4'>
                 <Link to='/' className='mb-2 pb-7'>
