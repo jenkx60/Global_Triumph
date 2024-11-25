@@ -60,7 +60,6 @@
                             className="h-14 w-auto"
                         />
                     </a>
-    
                 </Link>
             </div>
             <div className="flex lg:hidden">
@@ -78,26 +77,15 @@
                     <Link
                         key={link.name}
                         to={link.path}
-                        className="text-sm/6 font-semibold text-green-700">
+                        className="text-sm/6 font-semibold text-green-700 hover:text-green-300">
                             {link.name}
                     </Link>
                 ))}
-            
-    
-              {/* <a href="#" className="text-sm/6 font-semibold text-green-700">
-                About
-              </a>
-              <a href="#" className="text-sm/6 font-semibold text-green-700">
-                Projects
-              </a>
-              <a href="#" className="text-sm/6 font-semibold text-green-700">
-                Investments
-              </a> */}
     
               <Popover className="relative">
-                <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-green-700">
+                <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-green-700 hover:text-green-300">
                   Resources
-                  <ChevronDownIcon aria-hidden="true" className="size-5 flex-none text-green-700" />
+                  <ChevronDownIcon aria-hidden="true" className="size-5 flex-none text-green-700 hover:text-green-300" />
                 </PopoverButton>
     
                 <PopoverPanel
